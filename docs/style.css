@@ -1,0 +1,34 @@
+.rightcard{
+    background-color: antiquewhite;
+    padding: 4%;
+    position: fixed;
+    right: 0;
+}
+.height {
+    background-color: aqua;
+    display: inline-block;
+}
+
+.highlight {
+    background-color: blue;
+}
+
+.whole {
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+#utubevid{
+    border-radius: 30px;
+    width: 100%
+}
+
+#txtarea
+{
+    color:darkgreen;
+    background-color: #E6F2FF;
+}
+.card{
+    margin-left: 2%;
+    margin-bottom: 10px;
+}
