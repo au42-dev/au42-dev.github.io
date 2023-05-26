@@ -13,7 +13,8 @@ let data=[
         01:05:18 to 01:09:41- Framework of  c programming and context of Repl
         01:11:00 to  01:13:33- Explain the Icons in the Code
         01:14:00 to 01:17:54 - Explain the  instructions and how to write the code  in the patterns
-        01:20:31 to 01:22:35 - Doubts solving session<br>01:28:47 to 01:30:28-How to reach out to clarify Doubts`
+        01:20:31 to 01:22:35 - Doubts solving session<br>01:28:47 to 01:30:28-How to reach out to clarify Doubts`,
+        "resource":"https://drive.google.com/file/d/15OpEgh0i2llJ-ifGF714UelnxQfuzJqN/view?usp=drive_link"
     },
     {
         "title":"C Programming 1_1",
@@ -27,7 +28,8 @@ let data=[
         01:08:29 to 01:20:19 - Doubts solving session
         01:36:00 to 01:38:05 - Briefly explain new command in sample program
         01:38:25 to 01:39:18 - Assign a task<br>01:52:49 to 01:56:20- Doubts Solving Session
-        02:03:35 to 02:05:20 - Doubts solving session<br>02:06:22 to 02:07:43 - Summary of today's class`
+        02:03:35 to 02:05:20 - Doubts solving session<br>02:06:22 to 02:07:43 - Summary of today's class`,
+        "resource":"https://drive.google.com/file/d/1uEC_TB7uhE7gk4GnFqSIJnDxQtuuCZAf/view?usp=drive_link"
     },
     {
         "title":"C Programming 2",
@@ -45,7 +47,8 @@ let data=[
         01:15:28 to 01:19:00- Explain the pattern 5
         01:19:38 to 01:19:53 -  Given some hints while writing code
         01:23:15 to 01:39:00 - Doubts solving session about Game Karel
-        `
+        `,
+        "resource":"https://drive.google.com/file/d/1YbxF3Ws8f1nH7Cc9V7pO-YvhI9SQXIZU/view?usp=drive_link"
     },
     {
         "title":"C Programming 4",
@@ -60,7 +63,8 @@ let data=[
         01:21:41 to 01:26:20 - Steps for new commands in pattern8
         01:30:40 to 01:32:45 - Explain New commands in pattern 9 
         01:34:11 to 01:36:38-  Assign pattern9 task
-        01:37:54 to 01:40:20 - Explain console,shell and instructions and  Assign task in pattern 10`
+        01:37:54 to 01:40:20 - Explain console,shell and instructions and  Assign task in pattern 10`,
+        "resource":"https://docs.google.com/document/d/1gBUdsWhEfD4KJDlD_40LN2awueyrbNuugTwjNSa8Osc/edit?usp=drive_link"
     },
     {
         "title":"C Programming 6",
@@ -74,7 +78,8 @@ let data=[
         01:16:25 to 01:36:56  - Clear doubts in pattern 10 and discuss segmentation error ,predefined & defined,New commands.
         01:40:30 to 01:43:15 - clear doubts in pattern 9
         01:43:55 to 01:45:10 - Remove make good command in pattern10 
-        01:53:00 to 01:54:45 - Solving doubts`
+        01:53:00 to 01:54:45 - Solving doubts`,
+        "resource":"https://docs.google.com/document/d/1pBqMlH2nxphcI6wDgxxcHlBHrXZSvJogjB4vqWyzYWM/edit?usp=drive_link"
     },
     {
         "title":"C Programming 7",
@@ -90,7 +95,8 @@ let data=[
         01:28:01 to 01:33:30 - Discuss C language vocabulary
         01:42:17 to 01:51:35- Clear doubts while explain pattern 12 with the changed website &Assign a task  and Explain operators (Addition, Subtraction, Multiplication, Division,Modulo division)
         01:52:05 to 01:52:54 - Show the command to open the webpage in the website 
-        01:53:00 to 01:56:20 - Summary of Covered topics and Cleared doubt in webage`
+        01:53:00 to 01:56:20 - Summary of Covered topics and Cleared doubt in webage`,
+        "resource":"https://docs.google.com/presentation/d/1zuSvC3bFqN6ZHHkb4TtlK4BrXUMDuXN58mIqpD4xUR4/edit?usp=drive_link"
     },
     {
         "title":"C Programming 8",
@@ -105,7 +111,8 @@ let data=[
         01:17:15 to 01:18:29 - Solving Doubts
         01:19:58 to 01:20:50 - Discuss New variable and assign the result in sum of two numbers program 
         01:24:41 to 01:25:39 - Clear doubt about double quotes
-        01:26:41 to 01:27:12 - Explain two commands that we don't use  in sum of two numbers program`
+        01:26:41 to 01:27:12 - Explain two commands that we don't use  in sum of two numbers program`,
+        "resource":"https://docs.google.com/presentation/d/1uk0qccDVWmZ-uc--xODphPTWRZ3Tiv9Lms4ieKAJlYE/edit?usp=drive_link"
     },
     {
         "title":"C Programming 9",
@@ -123,7 +130,8 @@ let data=[
         01:01:58 to 01:03:45 - Explain pattern 18
         01:05:20 to 01:06:43 - Cleared doubts
         01:28:04 to 01:29:06 - Create rooms to what will do in tomorrow class
-        01:51:49 to 01:52:03 - Create a pole and asking to take the pole`
+        01:51:49 to 01:52:03 - Create a pole and asking to take the pole`,
+        "resource":"https://docs.google.com/presentation/d/1PRwP4CDt0RSWWHuhcDV2v7wR6QKg1U4llOTFRJojbNc/edit?usp=drive_link"
     },
     {
         "title":"C Programming 11",
@@ -140,7 +148,8 @@ let data=[
         01:24:23 to 01:26:08 - Doubt solving session
         01:26:45 to 01:36:18 - Discuss Reverse of two numbers and Cleared doubts in that program
         01:36:55 to 01:40:00  - Breif demo of what we discuss tommorrow
-        01:42:29 to 01:43:34 - Assign a  challenge in brilliant.org`
+        01:42:29 to 01:43:34 - Assign a  challenge in brilliant.org`,
+        "resource":"https://docs.google.com/presentation/d/1IFjLrN3NQtpd17sOD28j2IKdW41NrN-_lojLVA6T4Uw/edit?usp=drive_link"
     },
     {
         "title":"C Programming 12_1",
@@ -148,7 +157,8 @@ let data=[
         "description":`00:03:10 to 00:07:05 - Assign a functions task in reverse of two numbers
         00:07:35 to 00:08:16 - Explain type reverse of number
         00:08:58 to 00:11:16 - Explain sum of squares of numbers
-        00:12:10 to 00:17:05 - Assign challenge in brilliant.org`
+        00:12:10 to 00:17:05 - Assign challenge in brilliant.org`,
+        "resource":"https://docs.google.com/presentation/d/1GAFahwHtnlFAr9x5yyLLBEHlLzmA0buxTm-5a3FfG2M/edit?usp=drive_link"
     },
     {
         "title":"C Programming 12_3",
@@ -163,7 +173,8 @@ let data=[
         00:28:43 to 00:29:45 - Summarize the context of start and stop
         00:30:57 to 00:33:43   - Make a change by using three words as synonyms
         00:38:54 to 00:45:18 - Discuss the topic of different input and different output with examples 
-        00:49:39 to 00:52:58 -Summary of today's class`
+        00:49:39 to 00:52:58 -Summary of today's class`,
+        "resource":"https://docs.google.com/presentation/d/1GAFahwHtnlFAr9x5yyLLBEHlLzmA0buxTm-5a3FfG2M/edit?usp=drive_link"
     },
     {
         "title":"C Programming 13",
@@ -185,7 +196,8 @@ let data=[
         01:45:16 to 01:50:30- Cleared doubts and explain double percentage use and double backward slash
         01:53:23 to 01:54:27 - Explain printf use
         01:56:50 to 01:58:00 - Explain difference between void start and int main
-        01:59:00 to 02:00:10 - Brief introduction of fundamentals of computing`
+        01:59:00 to 02:00:10 - Brief introduction of fundamentals of computing`,
+        "resource":"https://docs.google.com/presentation/d/1vgS0gWOscXnIhVA3iA13M-IqXHEtYx-46zh1vwaJjIQ/edit?usp=drive_link"
     },
     {
         "title":"C Programming 14",
@@ -203,7 +215,8 @@ let data=[
         01:25:35 to  01:39:39 - Explain assembly language and Cleared doubts
         01:39:42 to 01:43:07 - Explain input ,output and operating system
         01:43:13 to 01:53:45 - Explain need for a better language and compiler with an example
-        01:55:00 to 02:00:45 - Cleared doubts &assign task in brilliant.org`     
+        01:55:00 to 02:00:45 - Cleared doubts &assign task in brilliant.org`,
+        "resource":"https://docs.google.com/presentation/d/1WsjacIkPcyNHVdCWMIM6r2wxWPI0PSqxRQW_c9U5_L8/edit?usp=drive_link"
     },
     {
         "title":"C Programming 15",
@@ -223,7 +236,8 @@ let data=[
         01:09:03 to 01:24:40 - Explain idhi ayithe and idhi kakapothey with an example
         01:27:28 to 01:29:30 - Explain block of code in c vocabulary
         01:31:02 to 01:49:50 - Explain how to print first n natural numbers in code 
-        01:50:27 to 02:11:53 - Cleared doubts and explain get int prompt use`
+        01:50:27 to 02:11:53 - Cleared doubts and explain get int prompt use`,
+        "resource":"https://docs.google.com/presentation/d/1d3e42xDaqC_GiCsXU8dkP7CRpmkUWloepys4T8w4toc/edit?usp=drive_link"
     },
     {
         "title":"C Programming 17",
@@ -240,7 +254,8 @@ let data=[
         01:29:36 to 01:31:35 - Cleared doubts about if else
         01:32:21 to 01:35:48 - Explain subscript in code
         01:35:50 to 01:59:10 - Explain Arrays,Matrix and while loop with example 
-        01:59:50 to 02:02:58 - Brief introduction of what we discuss tomorrow`
+        01:59:50 to 02:02:58 - Brief introduction of what we discuss tomorrow`,
+        "resource":"https://docs.google.com/presentation/d/1HDlOoc7ivQf57Q1-gGCus20zv-aOk97l0ddpUCnsP9g/edit?usp=drive_link"
     },
     {
         "title":"C Programming 18",
@@ -253,7 +268,8 @@ let data=[
         00:37:10 to 00:42:20 - Discuss arrays and given time for writing code
         00:48:55 to 00:57:41 - Explain arrays with example
         00:58:11 to 00:59:53 - Explain main function
-        01:00:01 to 01:14:24 - Explain main function visualisation with example array in au.e42 website `
+        01:00:01 to 01:14:24 - Explain main function visualisation with example array in au.e42 website `,
+        "resource":"https://docs.google.com/presentation/d/1XmUr5Fix-qvM2-GhpcZaRICd2gKXBl08yunEQppEXCg/edit?usp=drive_link"
     },
     {
         "title":"C Programming 19",
@@ -269,10 +285,25 @@ let data=[
         01:31:39 to 01:40:04 - Cleared doubts about random function
         01:41:04 to 01:59:35 - Explain random function with example
         02:00:14 to 02:04:01 - Cleared doubt and discuss nested function call
-        02:04:09 t0 02:06:36 - Discuss intial board with random position`   
+        02:04:09 t0 02:06:36 - Discuss intial board with random position`,
+        "resource":"https://docs.google.com/presentation/d/1m2flxUwKmVszgx2wafRQw1iigvAv571Dm_2LUqD74jw/edit?usp=drive_link"
     }
 ]
+function hover(id) {
+    var qr = document.querySelectorAll(".box");
+    for (var i = 0; i < qr.length; i++) {
+      var currentId = qr[i].id;
+      if (currentId === id) {
+        qr[i].classList.toggle("color");
+      } else {
+        qr[i].classList.remove("color");
+      }
+    }
+}
+var mid=1;
 function clicked(id) {
+    hover(id);
+    mid=id;
     let video = data[id - 1];
     let iframe = document.getElementById("utubevid");
     iframe.src = video.link;
@@ -282,4 +313,7 @@ function clicked(id) {
 
     let txtarea = document.getElementById("txtarea");
     txtarea.innerHTML = video.description;
+
+    let atag =document.getElementById("resource");
+    atag.href=video.resource;
 }
