@@ -1,34 +1,116 @@
-.rightcard{
-    background-color: antiquewhite;
-    padding: 4%;
-    position: fixed;
-    right: 0;
-}
-.height {
-    background-color: aqua;
-    display: inline-block;
-}
-
-.highlight {
-    background-color: blue;
-}
-
-.whole {
-    display: grid;
-    grid-template-columns: 40% 60%;
-}
-
-#utubevid{
-    border-radius: 30px;
-    width: 100%
-}
-
-#txtarea
+body
 {
-    color:darkgreen;
+    background-color: #180600;
+    margin: 10px;
+}
+.img
+{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.funda
+{
+    margin-top: 10px;
+    width: 481px;
+    height: 130.43px;
+    left: 217px;
+    top: 156px;
+
+}
+.full
+{
+    margin: 10px;
+}
+.left
+{
+    border-radius: 50px 0px 0px 50px;
+    background-color: bisque;
+}
+.right
+{
+    border-radius: 0px 50px 50px 0px;
+    background-color: bisque;
+}
+.box
+{
+    background-color: antiquewhite;
+    padding:5px;
+    margin: 10px;   
+    width: 200px; 
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.color
+{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+
+.rightcard {
+    
+    background-color: antiquewhite;
+    padding-top: 10px;
+    padding-left: 40px;
+    height: 100%;
+
+}
+
+#utubevid {
+    border-radius: 30px;
+    margin: 10px;
+    width: 708px;
+    height: 444px;
+}
+
+#txtarea {
+    margin: 10px;
+    color: darkgreen;
     background-color: #E6F2FF;
 }
-.card{
-    margin-left: 2%;
-    margin-bottom: 10px;
+
+.resource {
+    border-radius: 50px;
+    padding: 4px 20px 4px 20px;
+    line-height: 40px;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #333;
+    border: 2px solid #333;
+    letter-spacing: 2px;
+    text-align: center;
+    position: relative;
+    transition: all .35s;
+}
+
+.resource .spanres {
+    
+    position: relative;
+    z-index: 2;
+}
+
+.resource:after {
+    border-radius: 50px;
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background: #4C4C6D;
+    transition: all .35s;
+}
+
+.resource:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.resource:hover:after {
+    width: 100%;
+}
+.side{
+    background-color: #180600;
+}
+.title
+{
+    margin: 10px;
 }
