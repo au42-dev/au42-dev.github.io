@@ -1,3 +1,5 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,700&display=swap');
 body
 {
     background-color: #180600;
@@ -10,11 +12,11 @@ body
 .funda
 {
     margin-top: 30px;
-    width: 481px;
-    height: 130.43px;
+    width: 450px;
+    height: auto;
     left: 217px;
     top: 156px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     
 
 }
@@ -22,7 +24,6 @@ body
 {
     margin: 10px;
 }
-
 .left
 {
     border-radius: 10px 0 0 10px;
@@ -31,10 +32,12 @@ body
 .boxcontainer{
     border-radius: 10px;
     background-color: #180600;
-    overflow: scroll;
-    /* overflow-y : hidden;
-    overflow-x : hidden; */
-}
+        overflow: auto;
+        /* Additional styling */
+        width: 90%; /* Adjust the width as needed */
+        height: 500px; 
+      }
+      
 .right
 {
     border-radius: 0px 10px 10px 0px;
@@ -45,12 +48,13 @@ body
     background-color: antiquewhite;
     padding:5px;
     margin: 10px;   
-    width: 200px; 
+    width: 65%; 
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 .color
 {
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+    box-shadow: rgba(245, 117, 5, 0.16) 0px 1px 4px, #EB8500 0px 0px 0px 3px;;
+    
 }
 
 .rightcard {
@@ -65,15 +69,17 @@ body
 #utubevid {
     border-radius: 30px;
     margin: 10px;
-    width: 708px;
-    height: 444px;
+    width: 65%;
+    height: 50%;
 }
 
 #txtarea {
     margin: 10px;
-    color: darkgreen;
+    color: #180600;
     background-color: #E6F2FF;
     resize: none;
+    width: 80%;
+    height:30%;
 }
 
 .resource {
@@ -126,3 +132,17 @@ body
     font-family: 'Inter', sans-serif;
 
 }
+.op{
+    height: 150px;
+    cursor:grab;
+}
+.animate{
+    animation: hello;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+@keyframes hello{
+    0%{transform: translateY(0px);}
+    49%{transform: translateY(10px);}
+    100%{transform: translateY(0px);}
+};
